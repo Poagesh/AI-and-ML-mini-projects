@@ -60,6 +60,5 @@ PatternsResponses = {
 ## License
 This project is open-source and free to use. Feel free to modify it to suit your needs.
 
-```
 
-Enjoy chatting with Pal!
+## Enjoy chatting with Pal!
